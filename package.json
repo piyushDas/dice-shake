@@ -1,0 +1,19 @@
+{
+  "name": "dice-shake",
+  "version": "1.0.0",
+  "description": "A simple app of shaking a dice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/piyushDas/dice-shake.git"
+  },
+  "author": "Piyush Das",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/piyushDas/dice-shake/issues"
+  },
+  "homepage": "https://github.com/piyushDas/dice-shake#readme"
+}
