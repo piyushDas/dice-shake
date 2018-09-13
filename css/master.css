@@ -56,12 +56,12 @@ button:hover{
 
 @-webkit-keyframes shake {
 		from {
-				-webkit-transform: rotate(0deg);
+				-webkit-transform: rotate3d(0, 0, 0, 0deg);
         /* -webkit-transform: translate(0); */
         left: 50vw;
 		}
 		to {
-				-webkit-transform: rotate(359deg);
+				-webkit-transform: rotate3d(1, 1, 1, 359deg);
         /* -webkit-transform: translate(-30px); */
         left: 30vw;
 		}
